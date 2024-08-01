@@ -84,6 +84,7 @@ public:
 		{ "PetRazorBeak",		"Raptors",			std::make_pair(1, 18)},
 		{ "PetScratch",		        "Scratch",			std::make_pair(1, 1)},
 		{ "PetScuttleCrab",		"Scuttle",			std::make_pair(1, 18)},
+                { "PetSeaAngel",		"Lumie",			std::make_pair(1, 5)},
 		{ "PetSennaBunny",		"Melisma",			std::make_pair(1, 40)},
 		{ "PetSgCat",			"Dango",			std::make_pair(1, 48)},
 		{ "PetSgPig",			"Fuwa",				std::make_pair(1, 40)},
@@ -96,7 +97,6 @@ public:
 		{ "PetUmbra",			"Umbra",			std::make_pair(1, 57)},
 		{ "PetVoidEye",			"Khat'Sai",			std::make_pair(1, 18)},
 		//Other models
-                //{ "Placeholder",			"Lumie",			std::make_pair(1, 5)},
 		{ "TFT_ElderDragon",	        "Elder Dragon"							 }
 	};
 };
