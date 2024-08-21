@@ -4,7 +4,7 @@
 
 namespace offsets {
 	namespace gameObject {
-		inline std::uint64_t name{ 0x60 };
+		inline std::uint64_t name{ 0x58 };
 	};
 
 	namespace global {
