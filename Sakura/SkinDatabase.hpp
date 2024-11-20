@@ -105,6 +105,6 @@ public:
 		{ "PetUmbra",			"Umbra",			std::make_pair(1, 57)},
 		{ "PetVoidEye",			"Khat'Sai",			std::make_pair(1, 18)},
 		//Other models
-		{ "TFT_ElderDragon",	        "Elder Dragon"							 }
+		//{ "TFT_ElderDragon",	        "Elder Dragon"							 }
 	};
 };
