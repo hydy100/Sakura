@@ -99,7 +99,7 @@ public:
 		{ "PetShark",			"Shork",			std::make_pair(1, 33)},
 		{ "PetSmolKnifeDog",	        "Knife Pup",		        std::make_pair(1, 18)},
 		{ "PetSpiritFox",		"Hushtail",			std::make_pair(1, 45)},
-                { "PetStyleTwoJinx",		"Arcane Jinx Unbound",		std::make_pair(1, 1)},
+                { "PetStyleTwoJinx",		"Arcane Jinx Unbound",		std::make_pair(3, 3)},
 		{ "PetTftAvatar",		"River Sprite",			std::make_pair(1, 24)},
 		{ "PetTurtle",			"Paddlemar",			std::make_pair(1, 33)},
 		{ "PetUmbra",			"Umbra",			std::make_pair(1, 57)},
