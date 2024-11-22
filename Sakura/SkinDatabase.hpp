@@ -20,7 +20,7 @@ public:
 		{ "PetAkaliDragon",		"Ossia",			std::make_pair(1, 21)},
 		{ "PetAoShin",			"Ao Shin",			std::make_pair(1, 51)},
 		{ "PetBallDragon",		"Poggless",			std::make_pair(1, 21)},
-		{ "PetBaron",			"Baron",			std::make_pair(1, 6)}, // wtf riot
+		{ "PetBaron",			"Baron",			std::make_pair(3, 3)}, // wtf riot
                 { "PetBat",		        "Scribble",			std::make_pair(1, 5)},
 		{ "PetBellSwayer",		"Bell Swayer",			std::make_pair(1, 23)},
 		{ "PetBigKnifeDog",		"Knife Hound",			std::make_pair(1, 18)},
