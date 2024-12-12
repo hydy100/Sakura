@@ -68,7 +68,7 @@ private:
 		},
 		{
 			{
-				"E8 ? ? ? ? 8B 57 34"
+				"E8 ? ? ? ? 8B 57 34 45 33 C9"
 			}, true, false, false, 0, &offsets::functions::FnRiot__Renderer__MaterialRegistry__GetSingletonPtr
 		},
 		{
