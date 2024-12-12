@@ -107,6 +107,7 @@ public:
 		{ "PetSmolKnifeDog",	        "Knife Pup",		        std::make_pair(1, 18)},
 		{ "PetSpiritFox",		"Hushtail",			std::make_pair(1, 45)},
                 { "PetStyleTwoJinx",		"Arcane Jinx Unbound",		std::make_pair(3, 3)},
+		{ "PetStyleTwoWarwick",		"Arcane Warwick Immortal",	std::make_pair(2, 2)},
 		{ "PetTftAvatar",		"River Sprite",			std::make_pair(1, 24)},
 		{ "PetTurtle",			"Paddlemar",			std::make_pair(1, 33)},
 		{ "PetUmbra",			"Umbra",			std::make_pair(1, 57)},
