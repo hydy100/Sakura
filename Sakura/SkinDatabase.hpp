@@ -70,7 +70,7 @@ public:
                 { "PetChip",		        "Chip2",			std::make_pair(3, 6)},
 		{ "PetChoncc",			"Choncc",			std::make_pair(1, 51)},
 		{ "PetCreepyCat",		"Whisker",			std::make_pair(1, 21)},
-                { "PetDoughCat",		"DoughCat1",			std::make_pair(1, 5)},
+                { "PetDoughCat",		"DoughCat1",			std::make_pair(1, 4)},
                 { "PetDoughCat",		"DoughCat2",			std::make_pair(6, 6)},
 		{ "PetDowsie",			"Dowsie",			std::make_pair(1, 52)},
 		{ "PetDsSquid",			"Squink",			std::make_pair(1, 57)},
