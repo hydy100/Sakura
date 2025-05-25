@@ -117,6 +117,7 @@ public:
 		{ "PetSmolKnifeDog",	        "Knife Pup",		        std::make_pair(1, 27)},
 		{ "PetSnake",	        	"Snek",		                std::make_pair(1, 6)},
 		{ "PetSpiritFox",		"Hushtail",			std::make_pair(1, 45)},
+		{ "PetStyleTwoGaren",		"God-King Garen Unbound",	std::make_pair(2, 2)},
                 { "PetStyleTwoJhin",		"Dark Cosmic Jhin Unbound",	std::make_pair(2, 2)},
                 { "PetStyleTwoJinx",		"Arcane Jinx Unbound",		std::make_pair(3, 3)},
 		{ "PetStyleTwoVayne",		"Project Vayne Unbound",	std::make_pair(2, 2)},
