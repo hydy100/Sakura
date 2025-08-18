@@ -127,6 +127,7 @@ public:
 		{ "PetStyleTwoVayne",		"Project Vayne Unbound",	std::make_pair(2, 2)},
 		{ "PetStyleTwoWarwick",		"Warwick Unbound",	        std::make_pair(1, 1)},
 		{ "PetStyleTwoWarwick",		"Arcane Warwick Unbound",	std::make_pair(2, 2)},
+		{ "PetStyleTwoYasuo",		"Nightbringer Yasuo",		std::make_pair(2, 2)},
 		{ "PetTftAvatar",		"River Sprite",			std::make_pair(1, 28)},
 		{ "PetTurtle",			"Paddlemar",			std::make_pair(1, 34)},
 		{ "PetUmbra",			"Umbra",			std::make_pair(1, 57)},
