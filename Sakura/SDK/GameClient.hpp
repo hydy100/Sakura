@@ -6,7 +6,7 @@
 #include "Pad.hpp"
 
 class GameClient {
-	PAD(0xC)
+	PAD(0x10)
 	GGameState_s gameState;
 	//PAD(0x28)
 	//std::int32_t mapId;
