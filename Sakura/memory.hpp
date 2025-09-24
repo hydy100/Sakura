@@ -38,7 +38,7 @@ private:
 		{
 			{
 				{
-					"48 8B 05 ? ? ? ? 4C 8B FA 83 78"
+					"48 8B 05 ? ? ? ? 48 8B F2 83 78"
 				}, true, false, true, 0, & offsets::global::GameClient
 			}
 		}
@@ -48,7 +48,7 @@ private:
 	{
 		{
 			{
-				"48 8B 3D ? ? ? ? 48 3B CF"
+				"48 8B 3D ? ? ? ? 48 85 FF 74 15 48 81 C7"
 			}, true, false, true, 0, & offsets::global::LocalPlayer
 		},
 		{
