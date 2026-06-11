@@ -49,7 +49,7 @@ public:
 		{ "PetChibiJanna",			"Chibi Janna",				std::make_pair(1, 2)},
 		{ "PetChibiJinx",			"Chibi Jinx",				std::make_pair(1, 3)},
 		{ "PetChibiKaisa",			"Chibi Kai'Sa",				std::make_pair(1, 3)},
-		{ "PetChibiKatarina",		"Chibi Katarina",			std::make_pair(1, 3)},
+		{ "PetChibiKatarina",		"Chibi Katarina",			std::make_pair(1, 2)},
 		{ "PetChibiKayle",			"Chibi Kayle",				std::make_pair(1, 2)},
 		{ "PetChibiLeeSin",			"Chibi Lee Sin",			std::make_pair(1, 3)},
 		{ "PetChibiLillia",			"Chibi Lillia",				std::make_pair(1, 2)},
